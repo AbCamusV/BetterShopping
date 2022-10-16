@@ -7,32 +7,19 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**描述不良购物体验**
+比如：平台（淘宝，拼多多等）+商家名字+一句话核心描述
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**不良体验过程**
+描述发生的经过:
+1. 发生时间
+2. 发生地点
+3. 交易物品
+4. 损失，包括金钱、时间等
+5. 是否得到解决
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**解决方法**
+如果最终得到解决，请告诉大家如何解决.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**证据**
+如果有的话，可以上传聊天记录、截屏等，请注意保护个人隐私.
